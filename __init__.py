@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+.env
+data/vectorstore/
+data/processed/
+data/eval_results/
+*.pkl
+.DS_Store
+.idea/
+.vscode/
